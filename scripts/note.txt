@@ -1,0 +1,1 @@
+node scripts/autopush.js > autopush.log 2>&1 &
