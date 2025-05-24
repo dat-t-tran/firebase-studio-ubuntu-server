@@ -1,1 +1,0 @@
-# firebase-studio-ubuntu-server
